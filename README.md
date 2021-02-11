@@ -1,5 +1,5 @@
-### Hi there<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
-
+### Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbraaoMorais&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/AbraaoMorais/github-readme-stats)
 <!--
 **AbraaoMorais/AbraaoMorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
