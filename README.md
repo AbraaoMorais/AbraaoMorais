@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">
 
-[![N](https://wakatime.com/share/@ceed7482-a97f-44a7-86e9-1af3262cb255/b23152ea-4ed1-4604-861a-c5cb802b8329.svg)
+[N](https://wakatime.com/share/@ceed7482-a97f-44a7-86e9-1af3262cb255/b23152ea-4ed1-4604-861a-c5cb802b8329.svg)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbraaoMorais&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="AbraaoMorais's Github Stats">
 
 
