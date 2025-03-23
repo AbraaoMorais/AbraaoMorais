@@ -4,7 +4,6 @@
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=morais11)](https://github.com/anuraghazra/github-readme-stats)
 
----
 [![wakatime](https://wakatime.com/badge/user/ceed7482-a97f-44a7-86e9-1af3262cb255.svg)](https://wakatime.com/@ceed7482-a97f-44a7-86e9-1af3262cb255)
 ---
 <!--
